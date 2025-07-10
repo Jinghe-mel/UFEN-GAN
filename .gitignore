@@ -205,3 +205,27 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+._*
+
+# VS Code settings
+.vscode/
+
+# Jupyter lab settings (if using jupyterlab)
+.jupyterlab-settings/
+
+# Black (Python formatter)
+.pytest_cache/
+.black/
+
+# Python cProfile output
+.prof
+
+# Pyright (Python language server)
+pyrightconfig.json
