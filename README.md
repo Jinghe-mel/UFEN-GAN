@@ -7,7 +7,7 @@ This project introduces an **adaptive GAN-based image synthesis** method that es
 ## 📷 Visual Example
 
 <p align="center">
-  <img src="example.png" alt="Demo Example" width="600"/>
+  <img src="example.png" alt="Demo Example" width="1000"/>
 </p>
 
 <p align="center">
