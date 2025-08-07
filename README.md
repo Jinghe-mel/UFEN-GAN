@@ -71,7 +71,7 @@ In our paper, we used the [NYU-v2](https://cs.nyu.edu/~fergus/datasets/nyu_depth
 
 ## 📚 Citation
 
-If you use this code or dataset, please cite our paper:
+If you use this code, please cite our paper:
 
 ```bibtex
 @article{yang2025ufen_gan,
